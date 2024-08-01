@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Replace 'input.xlsx' with your Excel file name
-file_path = 'input.xlsx'
+file_path = 'Input.xlsx'
 
 # Read the Excel file
 df = pd.read_excel(file_path)
